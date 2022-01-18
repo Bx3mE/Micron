@@ -25,5 +25,6 @@ like so:
 ||[Zerofilter_mounting_bracket](https://github.com/hartk1213/Micron/tree/main/Mods/Finn2708/Zerofilter_mounting_bracket) | Mounting bracket for Zerofilter 
 ||[AB_Motor_Microfit_Connector](https://github.com/hartk1213/Micron/tree/main/Mods/Finn2708/AB_Motor_Microfit_Connector) | AB Motor Microfit Connector
 |clee|[Micron-160](https://github.com/hartk1213/Micron/tree/main/Mods/clee) | Micron-160
+|RogueNeurons|[DOOMicron](https://github.com/hartk1213/Micron/tree/main/Mods/RogueNeurons) | Doomed Micron, Dual Panels Design, Z-Motors and DC electronics on Top
 
 ---
